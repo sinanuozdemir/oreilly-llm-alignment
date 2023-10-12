@@ -34,7 +34,7 @@ This training offers an intensive exploration into the frontier of reinforcement
 ## Notebooks
 
 - `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb)
-- `sawyer_1_instruction_ft.ipynb`: [Fine-tuning the instruction model for the SAWYER bot](notebooks/8_sawyer_1_instruction_ft.ipynb).
+- `sawyer_1_instruction_ft.ipynb`: [Fine-tuning the instruction model for the SAWYER bot](notebooks/sawyer_1_instruction_ft.ipynb).
 - `sawyer_2_train_reward_model.ipynb`: [Training a reward model for the SAWYER bot from human preferences.](notebooks/sawyer_2_train_reward_model.ipynb)
 - `sawyer_3_rl.ipynb`: [Using Reinforcement Learning from Human Feedback (RLHF) to further align the SAWYER bot](notebooks/sawyer_3_rl.ipynb)
 - `sawyer_4_use_sawyer.ipynb`: [Using our SAWYER bot](notebooks/sawyer_4_use_sawyer.ipynb)
