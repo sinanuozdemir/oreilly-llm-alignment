@@ -40,10 +40,10 @@ This training offers an intensive exploration into the frontier of reinforcement
 ### Notebooks
 
 - `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb)
-- `sawyer_1_instruction_ft.ipynb`: [Fine-tuning the instruction model for the SAWYER bot](notebooks/sawyer_1_instruction_ft.ipynb).
-- `sawyer_2_train_reward_model.ipynb`: [Training a reward model for the SAWYER bot from human preferences.](notebooks/sawyer_2_train_reward_model.ipynb)
-- `sawyer_3_rl.ipynb`: [Using Reinforcement Learning from Human Feedback (RLHF) to further align the SAWYER bot](notebooks/sawyer_3_rl.ipynb)
-- `sawyer_4_use_sawyer.ipynb`: [Using our SAWYER bot](notebooks/sawyer_4_use_sawyer.ipynb)
+- Fine-tuning the instruction model for the SAWYER bot: [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing) 
+- Training a reward model for the SAWYER bot from human preferences: [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing) 
+Using Reinforcement Learning from Feedback (RLF) to further align the SAWYER bot [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QR_Xf1GsOyChYzReg_JHxsBTrMZ0Vwz6?usp=sharing) 
+- Using and Evalauting SAWYER [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUrIbqyKoEjxNyjNI6iuYuSNMyksypEO?usp=sharing)
 
 
 For a detailed schedule, refer to the [Course Description](#description).
