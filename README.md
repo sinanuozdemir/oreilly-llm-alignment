@@ -21,7 +21,7 @@ This class is an intensive exploration into the alignment of Large Language Mode
 ### Notebooks
 
 - `rlaif.ipynb`: [Investigating Principles of RLAIF and Constituional AI](notebooks/rlaif.ipynb)
-- `Instruction Aligning Llama 3.1 8B`: A workshop in fine-tuning Llama 2 with instructional data and incorporating further pre-training to update it's knowledge base
+- `Instruction Aligning Llama 3.1 8B`: A workshop in fine-tuning Llama 3.1 8B with instructional data and incorporating further pre-training to update it's knowledge base
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUXME3CcDEqp1eF8j5-z7bdUh2whKvDO?usp=sharing)
 
 ## Reinforcement Learning with Large Language Models
