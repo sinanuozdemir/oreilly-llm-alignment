@@ -39,7 +39,11 @@ This training offers an intensive exploration into the frontier of reinforcement
 
 ### Notebooks
 
+**Case Study 1 - Tuning a model with pre-trained off the shelf classifiers**
+
 - `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb) [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
+
+**Case Study 2 - Building a ChatGPT clone using SFT + RLHF**
 
 - Fine-tuning the instruction model for the SAWYER bot [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing) 
 
@@ -51,7 +55,10 @@ This training offers an intensive exploration into the frontier of reinforcement
 
  - Adding further knowledge to SAWYER through SFT [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12JeS96SVLIyY06bzJs96B5PdTt1Pga06?usp=sharing)
 
-For a detailed schedule, refer to the [Course Description](#description).
+**Case Study 3 - Teaching an LLM to reason with GRPO**
+
+ - Fine-tuning Qwen with GRPO on GSM8k [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cws1IL_T_0_cP0-cHxFA0FEsXYdiAN_8?usp=sharing)
+
 
 ## Further Resources
 
